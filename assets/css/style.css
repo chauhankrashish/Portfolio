@@ -855,6 +855,9 @@ main {
   touch-action: manipulation;
   white-space: nowrap;
 }
+.download-btn:hover{
+  box-shadow: rgba(240, 240, 240, 0.35) 0px 5px 15px;
+}
 
 /**
  * skills 
